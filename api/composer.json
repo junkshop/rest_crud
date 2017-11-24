@@ -1,0 +1,11 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "catfan/medoo": "1.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "module/controller"
+        }
+    }
+}
